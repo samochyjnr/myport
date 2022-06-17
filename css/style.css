@@ -1,0 +1,108 @@
+.imglogo{
+  margin-top:200px;
+}
+#toppart{
+  background: rgb(83,28,195);
+  background: linear-gradient(143deg, rgba(83,28,195,1) 0%, rgba(201,92,14,1) 98%);
+}
+#navbarNav{
+  background-color: transparent;
+}
+
+.nav-link{
+font-weight: bold;
+margin-top: 10px;
+}
+
+.profilepic{
+  width:270px;
+  height:270px;
+  margin-top: 70px;
+  margin-left:50px;
+}
+h2{
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 20px;
+  color: #E9EEF3;
+}
+.h2i{
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+  margin-top: 10px;
+  color: #E9EEF3;
+}
+h3{
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 15px;
+  color:#E9EEF3;
+}
+.h3i{
+  text-align: center;
+  font-weight: bold;
+  font-size: 19px;
+  margin-top: 13px;
+  margin-bottom: 120px;
+  color:#E9EEF3;
+}
+
+.h2ii{
+  color: #000000;
+  font-weight: bold;
+  margin-top:40px;
+  margin-bottom:20px;
+}
+
+p{
+font-weight:bold;
+}
+
+.pic1{
+  width:450px;
+  height:600px;
+  margin-bottom:20px;
+}
+
+.giphy1{
+  width:50px ;
+  height:50px ;
+  float: left;
+}
+
+
+.h3iii{
+  font-weight: bold;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.card-img{
+  width:20%;
+}
+
+.card-bottom{
+  width:20%;
+}
+
+.card-img-top {
+  width:20%;
+}
+
+.card-title{
+  text-align:center;
+}
+
+.btn{
+  align-content: center;
+}
+
+h6{
+  text-align: center;
+}
+.container{
+ align-items: center;
+}
