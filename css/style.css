@@ -106,3 +106,12 @@ h6{
 .container{
  align-items: center;
 }
+
+.img11{
+  width: 50px;
+ align-self: center;
+}
+
+.btn11{
+  align-self: center;
+}
